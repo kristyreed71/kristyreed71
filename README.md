@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Kristy Reed
+Cybersecurity Student | GRC | Security+ | Merit America
 
-<!--
-**kristyreed71/kristyreed71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛡️ About Me
+I am currently transitioning into cybersecurity and building a strong foundation in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Security Fundamentals
+- Governance, Risk, and Compliance (GRC)
+- Security Operations
+- Risk Management
+
+I am currently enrolled in:
+- Merit America Cybersecurity Program (Expected July 2026)
+- Quarantyne Academy GRC Course (In Progress)
+- Preparing for CompTIA Security+ (SY0-701)
+
+This GitHub contains my:
+- Homework assignments  
+- Labs  
+- Projects  
+- Risk assessments  
+- Diagrams and tables  
